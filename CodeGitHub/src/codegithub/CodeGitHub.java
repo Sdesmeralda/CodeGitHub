@@ -1,21 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package codegithub;
 
-/**
- *
- * @author daw126
- */
+package codegithub;
+import java.util.Scanner;
+
 public class CodeGitHub {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
-        // TODO code application logic here
+    Scanner sc= new Scanner(System.in);
+        int dni=0;
+        String letras []={"T","R","W","A","G","M","Y","F","P","D","X","B","N","J","Z","S","Q","V",
+        "H","L","C","K","E"};
+        int result []={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22};
+        int resto=0;
+        int i=0;  
+        
+        
         
     }
     
